@@ -1,0 +1,10 @@
+first_name=input('enter u r first name : ')
+last_name=input('enter u r last name : ')
+age=int(input('enter u r age: '))
+gender=input("enter u r gender: ")
+phone_no=int(input("enter u r phn_no:"))
+
+print(first_name+" "+last_name)
+print(age)
+print(gender)
+print(phone_no)
